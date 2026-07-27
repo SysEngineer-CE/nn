@@ -1,4 +1,4 @@
- ###Linux Installation & ROS2 Setup
+ #Linux Installation & ROS2 Setup
 
 This repository contains the documentation and pictorial report for installing and running the Robot Operating System (ROS2) on a Linux environment configured via Windows.
 
