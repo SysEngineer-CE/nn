@@ -2,6 +2,8 @@
 
 This repository contains the documentation and pictorial report for installing and running the Robot Operating System (ROS2) on a Linux environment configured via Windows.
 
+📁 **Full Photos & Proof: [Google Drive Folder](https://drive.google.com/drive/folders/1_hYLLpaf87g62lbRB4t_Q0lc__lh03xx?usp=drive_link)
+
 ## 🛠️ Environment Details
 
 - Host Operating System: Windows (via WSL2)
